@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    background-color: #39E9C0;
+    color: white;
+    font-family: 'Ubuntu Mono', sans-serif;
+}
+
+header{
+    margin: 0;
+    background-color: rgb(119, 119, 119);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#welcome{
+    background-color: rgb(119, 119, 119);
+    border-radius: 25px;
+    margin: 100px;
+    margin-inline: 400px;
+    text-align: center;
+}
+
+#main-form{
+    background-color: rgb(119, 119, 119);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    margin-inline: 200px;
+    background-clip: padding-box;
+
+}
+
+.error{
+    color: red;
+}
+
+#logoutButton{
+    background-color: #39E9C0; 
+    color: white;
+    transition: 0.2s;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;   
+}
+
+#logoutButton:hover{
+    background-color: rgb(119, 119, 119); 
+    color: white;
+    border: solid rgb(119, 119, 119);
+}

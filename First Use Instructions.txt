@@ -1,0 +1,10 @@
+To use the website for first time
+you have to log in as one of those users:
+
+username: ics20005
+password: 123456
+
+and
+
+username: ics20000
+password: 123456
